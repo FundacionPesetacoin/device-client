@@ -7,6 +7,7 @@ export enum CoinName {
   Dogecoin = 3,
   Dash = 5,
   Ethereum = 6,
+  Pesetacoin = 109
   BitcoinCash = 145,
   BitcoinGold = 156,
   Zcash = 133,
