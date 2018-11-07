@@ -222,6 +222,11 @@ export class CoinType {
     dust            : "100000000",
     defaultDecimals : 8
   }, {
+    name            : CoinName[CoinName.Pesetacoin],
+    addressFormat   : "^[][1-9A-HJ-NP-Za-km-z]{33}$",
+    dust            : "100000000",
+    defaultDecimals : 8
+  }, {
     name            : CoinName[CoinName.Ethereum],
     addressFormat   : ETHEREUM_ADDRESS_FORMAT,
     dust            : 1,
